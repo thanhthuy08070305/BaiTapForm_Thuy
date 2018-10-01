@@ -1,0 +1,155 @@
+.bai4{
+	margin: 0 auto;
+	width: 1000px;
+	height: 600px;
+	background: #fafafa;
+}
+.bai4 .register{
+	margin: 0;
+	float: left;
+	width: 500px;
+	height: 600px;
+	background:blue;
+	border-radius: 10px;
+}
+.register h2{
+	display: block;
+	font-size: 30px;
+	text-align: center;
+	color: white;
+}
+.register hr{
+	margin: 0;
+}
+.register .form1{
+	float: left;
+	margin: 50px 50px 0 50px;
+	width: 90%;
+	height: 50px;
+}
+.form1 .form{
+	float: left;
+	margin:0;
+	width: 50px;
+	height: 50px;
+	border-radius: 5px;
+	background: green;
+	opacity: 0.8;
+}
+.form img{
+	float: left;
+	margin: 5px;
+	width: 40px;
+	height: 40px;
+}
+.form1 form input{
+	float: left;
+	margin: 0;
+	width:320px;
+	height: 38px;
+	padding: 5px 15px;
+	border-radius: 5px;
+	background: white;
+	border: 0;
+}
+.form1 form input:focus{
+	color: white ;
+	background: #2E8B57;
+}
+.form1 form select{
+	float: left;
+	margin: 0;
+	width: 350px;
+	height: 50px;
+	border-radius: 5px;
+}
+.register form input.submit{
+	float: left;
+	margin: 50px 50px 20px 50px;
+	width:400px;
+	height: 50px;
+	padding: 10px;
+	border-radius: 5px;
+	background: #2E8B57;
+	color: white;
+	font-size: 20px;
+}
+.register form button{
+	float: left;
+	margin: 0 50px;
+	width: 400px;
+	height: 50px;
+	border-radius: 5px;
+	background: #00B2EE;
+	color: white;
+	font-size: 20px;
+	background-image: url( https://image.flaticon.com/icons/svg/1051/1051382.svg);
+	background-repeat: no-repeat;
+	background-position:10px;
+}
+.bai4 .inter{
+	margin: 0;
+	float: left;
+	width: 500px;
+	height: 600px;
+	background:black;
+	border-radius: 10px;
+}
+.inter h3{
+	margin: 20px;
+	float: right;
+	display: block;
+	font-size: 30px;
+	color: white;
+	padding: 0 20px;
+}
+.inter h4{
+	float: right;
+	margin: 0 20px 20px 20px;
+	display: block;
+	color: white;
+	font-size: 15px;
+	padding: 0 20px;
+}
+.inter hr{
+	margin: 100px 50PX;
+	width: 80%;
+}
+.inter form fieldset{
+	margin: 0 50px;
+	border-radius: 10px;
+	width: 380px;
+	height: 60px;
+	border: 0;
+}
+.inter form label{
+	margin: 0;
+	float: left;
+	display: block;
+	font-size: 15px;
+	color: white;
+	padding:5px;
+}
+.inter form label strong{
+	font-size: 15px;
+	color: red;
+}
+.inter form input{
+	float: left;
+	margin: 5px;
+	width: 350px;
+	height: 25px;
+	border-radius: 5px;
+	border: 0;
+}
+.inter form input.submit{
+	float: left;
+	margin: 20px 150px;
+	width: 200px;
+	height: 50px;
+	background: white;
+	font-size: 20px;
+	padding: 5px;
+	text-align: center;
+	color: black;
+}
